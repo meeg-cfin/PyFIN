@@ -1,0 +1,7 @@
+# Python and Jupyter:
+*.pyc
+*.py~
+*.ipynb_checkpoints
+
+# emacs:
+\#*#
